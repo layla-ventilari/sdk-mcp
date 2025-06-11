@@ -4,7 +4,7 @@
 
 O MCP Inspector é uma ferramenta que permite inspecionar e testar servidores MCP. Aqui está uma visualização da interface:
 
-![MCP Inspector Interface](./assets/images/mcp-inspector.png)
+![Image](https://github.com/user-attachments/assets/7807782f-3bfc-462b-b921-02b974f231df)
 
 ## Como usar
 
